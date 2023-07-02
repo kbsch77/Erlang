@@ -1,28 +1,23 @@
 # Overview
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
+This software is a simple demo that demonstrates simple Erlang programming and methods.
+This is my personal fist attempt on a functional language, so the purpose of this program is to demonstrate knowledge and practice in Erlang. 
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[TBD Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Erlang 26.0.2
+* Jetbrains Rider 2023.1
+* Git and Github
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Erlang Extension](https://marketplace.visualstudio.com/items?itemName=pgourlain.erlang)
+* [Erlang Syntax Tutorials](https://www.tutorialspoint.com/erlang/index.htm)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Create multiple files that work with each other.
+* Research and implement web programming.
+* Create a more intricate functional program with a goal.
